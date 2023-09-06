@@ -8,6 +8,14 @@ export default {
     src: 'https://github.com/LeonardoGarbelotti.png',
     alt: 'Leonardo Garbelotti',
   },
+  argTypes: {
+    src: {
+      description: 'Image source',
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
