@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ui/tokens'
+} from '@lggdesy-ui/tokens'
 
 export const {
   styled,

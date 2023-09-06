@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@lggdesy-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,9 +11,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@lggdesy-ui/eslint-config": "*",
+    "@lggdesy-ui/react": "*",
+    "@lggdesy-ui/tokens": "*",
     "@storybook/addon-a11y": "^7.4.0",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
