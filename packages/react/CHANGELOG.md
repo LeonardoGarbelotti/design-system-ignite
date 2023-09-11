@@ -1,5 +1,11 @@
 # @lggdesy-ui/react
 
+## 2.1.0
+
+### Minor Changes
+
+- add Tolltip and Toast components to the project
+
 ## 2.0.1
 
 ### Patch Changes
